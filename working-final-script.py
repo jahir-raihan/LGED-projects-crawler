@@ -85,7 +85,7 @@ def get_all_lged_project_data(request):
             print()
             print('---------------------------')
             print()
-            time.sleep(2)
+            time.sleep(2)  # Remove this line if your internet speed is fast enough.
         except:
             pass
 
